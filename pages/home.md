@@ -13,6 +13,8 @@ keywords: >-
   law school, best majors for law school, pre-law major, good score on LSAT,
   pre-law degree
 # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title: Your Path to Law School Begins Here
 feature-image: hero_prelaw.bg.png

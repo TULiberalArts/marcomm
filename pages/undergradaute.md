@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
@@ -14,11 +14,7 @@ keywords: >-
   pre-law degree
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Pre-Law Director:**  
-   Paul Crowe     
-   [(215) 204-8591](tel:2152048591)  
-   [pcrowe@temple.edu](mailto:pcrowe@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 ## Preparing for Law School
 Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop critical thinking, sharp research and writing skills. Choose a major you are passionate about, whether it is philosophy or political science and take courses that challenge you.

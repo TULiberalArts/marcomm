@@ -13,11 +13,7 @@ keywords: >-
   trial team
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Pre-Law Director:**  
-   Paul Crowe     
-   [(215) 204-8591](tel:2152048591)  
-   [pcrowe@temple.edu](mailto:pcrowe@temple.edu)
+sidebar_content: sidebars/resources.html
 ---
 ## Pre-Law Student Organizations
 The College offers a range of student-run activities of interest to pre-law students, including

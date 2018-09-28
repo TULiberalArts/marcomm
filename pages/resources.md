@@ -12,8 +12,8 @@ keywords: >-
   temple debate team, pre-law degree, temple university pre-law society, mock
   trial team
 # custom variables
-sidebar: true
-sidebar_content: sidebars/resources.html
+
+sidebar: sidebars/resources.html
 ---
 ## Pre-Law Student Organizations
 The College offers a range of student-run activities of interest to pre-law students, including

@@ -13,8 +13,8 @@ keywords: >-
   law school, best majors for law school, pre-law major, good score on LSAT,
   pre-law degree
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 ## Preparing for Law School
 Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop critical thinking, sharp research and writing skills. Choose a major you are passionate about, whether it is philosophy or political science and take courses that challenge you.

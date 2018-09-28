@@ -14,7 +14,7 @@ keywords: >-
   pre-law degree
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Your Path to Law School Begins Here
 feature-image: hero_prelaw.bg.png

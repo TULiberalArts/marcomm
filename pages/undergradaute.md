@@ -17,7 +17,15 @@ keywords: >-
 sidebar: sidebars/undergraduate.html
 ---
 ## Preparing for Law School
-Successful law students come from all walks of life and undergraduate backgrounds. Just like Temple’s College of Liberal Arts, law schools value the different perspectives that students bring to the classroom. The American Bar Association (ABA) does not recommend specific undergraduate majors or types of classes, but encourages you to develop critical thinking, sharp research and writing skills. Choose a major you are passionate about, whether it is philosophy or political science and take courses that challenge you.
+There are many free resources available to support you as you consider applying to law school:
+
+- [Law School Transparency](https://www.lawschooltransparency.com/) provides information on the law school profession, financial investment, statistics on law school rankings, employment rates, enrollment, etc.
+
+- [AccessLex Institute](https://www.accesslex.org/pre-law) provides financial education and a variety of pre-law services.
+
+- [Law School Admission Council (LSAC)](https://www.lsac.org/) administers the LSAT and provides clear steps for applying to law school.
+
+- Free [Law School Admission Test (LSAT) Prep](https://www.khanacademy.org/prep/lsat)
 
 [Explore the Complete List of Academic Offerings at CLA](https://liberalarts.temple.edu/)
 

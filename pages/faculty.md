@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /resources/
+permalink: /faculty/
 published: true
 # meta-data variables
-title: Resources
+title: Faculty
 description: >-
    Pre-Law at Temple University offers students a Pre-Law Society, Mock Trial, Debate Society,
    Black Law Students Association, and more undergraduate resources through the College of Liberal Arts.
@@ -12,8 +12,7 @@ keywords: >-
   temple debate team, pre-law degree, temple university pre-law society, mock
   trial team
 # custom variables
-
-sidebar: sidebars/resources.html
+sidebar: 
 ---
 ## Pre-Law Student Organizations
 The College offers a range of student-run activities of interest to pre-law students, including

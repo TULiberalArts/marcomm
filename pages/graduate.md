@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /next-stops/
+permalink: /graduate/
 published: true
 # meta-data variables
-title: Next Stops
+title: Graduate
 description: >-
   See what Temple University’s Beasley School of Law has to offer, or explore other top law schools.
   Make your declaration, find out about study abroad, visit us, know your transfer options and deadlines, 

@@ -1,6 +1,8 @@
 - text: Undergraduate
   url: /undergraduate/
-- text: Resources
-  url : /resources/
-- text: Next Stops
-  url : /next-stops/
+- text: Graduate
+  url : /graduate/
+- text: Faculty
+  url : /faculty/
+- text: Research Administration
+  url : /research-administration/

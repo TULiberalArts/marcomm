@@ -1,4 +1,4 @@
-# Pre-Law
+# Liberal-Arts-Research 
 
 [![Build Status][travis-img]][travis]
 
@@ -6,8 +6,8 @@ Pre-Law is statically generated with [Jekyll](https://jekyllrb.com) and hosted b
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/pre-law/ |
-| Production | https://www.cla.temple.edu/pre-law/ |
+| Development |  |
+| Production |  |
 
 ## Content Structure
 

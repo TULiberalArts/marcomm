@@ -13,6 +13,7 @@ keywords: >-
   Beasley School of Law, law school admissions, good score on LSAT, pre-law
   degree, Ivy League law schools
 # custom variables
+sidebar: sidebars/undergraduate.html
 ---
 ## Graduate Research
 - About us intro needed

@@ -8,6 +8,7 @@ title: Research Administration
 description: >-     
 keywords: >-
 # custom variables
+sidebar: sidebars/undergraduate.html
 ---
 CLA’s Office of Research Administration assists in the administration of sponsored projects in accordance with federal, state, sponsor, and Temple University guidelines. We are dedicated in supporting our faculty in their efforts to seek and obtain external awards to support research, training, community service, and other scholarly activities. We provide support in all aspects of proposal preparation, submission and grant administration. Our staff act as a liaison with many offices outside of CLA that are involved in the life cycle of a grant including OVPR, GMO, RAS, the Graduate School, HR, and more.  We are dedicated to helping you throughout the research process, and are available for consultation on topics including funding searches (link to form), proposal preparation, interpretation of sponsor guidelines, budget development, spending awarded grants, and much more.
 

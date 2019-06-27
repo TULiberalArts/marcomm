@@ -19,5 +19,7 @@ The Liberal Arts Undergraduate Research Awards (LAURAs). The LAURAs grant $2,000
 
 The Liberal Arts Undergraduate Research Awards (LAURA) creates more opportunities for undergraduate students to develop research skills by working with faculty mentors on faculty-led research projects while increasing support for faculty research in the College of Liberal Arts.
 
-## Creative Arts And Research Scholarship (CARAs)
-The Creative Arts and Research Scholarship are a partnership between the Temple Research Administration and the Office of the Provost and the deans of Temple University’s schools and colleges to provide funding opportunities to encourage and support undergraduate and professional students engaged in scholarly, creative and research projects that contribute to advancing their field of study. 
+- LAURA Guidelines- LINK TO NEW JOTFORM I MADE
+
+## [Creative Arts And Research Scholarship (CARAs)](https://www.temple.edu/vpus/opportunities/CARAS.htm)
+The Creative Arts and Research Scholarship are a partnership between the Temple Research Administration and the Office of the Provost and the deans of Temple University’s schools and colleges to provide funding opportunities to encourage and support undergraduate and professional students engaged in scholarly, creative and research projects that contribute to advancing their field of study.  

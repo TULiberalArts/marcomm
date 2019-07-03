@@ -25,6 +25,8 @@ ACLS/Mellon Diversity and Inclusion Post-Doctoral Fellow in the Humanities
 Post-Doctoral Fellows (link to Psychology department)
 
 ### Related CLA Centers and Labs
-[Public Policy Lab](http://www.cla.temple.edu/public-policy-lab/)<br>
-[Center for the Humanities at Temple (CHAT)](https://www.cla.temple.edu/center-for-the-humanities/)<br>
-[Center for Sustainable Communities](http://www.cla.temple.edu/center-for-sustainable-communities/)<br>
+- [Public Policy Lab](http://www.cla.temple.edu/public-policy-lab/)<br>
+- [Center for the Humanities at Temple (CHAT)](https://www.cla.temple.edu/center-for-the-humanities/)<br>
+- [Center for Sustainable Communities](http://www.cla.temple.edu/center-for-sustainable-communities/)<br>
+
+___

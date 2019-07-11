@@ -12,7 +12,7 @@ keywords: >-
 promotion-table: true
 feature: true
 feature-title: 
-feature-image: hero_prelaw.bg.png
+feature-image: 
 feature-body: >-
   We’re not confined to the classroom. We venture into the laboratory
   and get our hands dirty in the field. Whether we’re in the psychology 

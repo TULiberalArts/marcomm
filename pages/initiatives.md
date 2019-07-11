@@ -18,9 +18,9 @@ The Diversity and Inclusion Postdoctoral Fellowships in the Liberal Arts support
 ## Upcoming Fellowship Opportunities
 We are pleased to announce that the College of Liberal Arts received a major grant to support an ACLS/Mellon Diversity and Inclusion Doctorial Fellow in Philosophy. 
 
-_Please check back soon for the job posting._ 
+- _Please check back soon for the job posting._ 
 
-![ACLS logo]({{site.baseurl}}/media/resizedaclslogo.png){:.img-right}
+![ACLS logo]({{site.baseurl}}/media/resized2aclslogo.png){:.responsive-img .img-right}
 ACLS is pleased to announce three new partnerships that reflect our commitment to supporting institutional efforts to increase the diversity of college and university faculty. Through this program, **The City College of New York, Haverford College, and Temple University** will each offer a two-year postdoctoral fellowship for promising early career scholars from historically underrepresented groups such as black/African American, American Indian, Alaskan Native, and Hispanic/Latino scholars. The institutions will appoint these fellows with the intent to promote them to Assistant Professor roles at the end of the fellowship period. Support for ACLS’s Postdoctoral Partnership Initiative is made possible by The Andrew W. Mellon Foundation.
 
 “These three new partnerships each, in their own way, exemplify the innovative, high-quality postdoctoral opportunities that this program was designed to foster,” said ACLS program officer Valerie Popp. “Some plan to target a specific field that the faculty and institution see as a promising environment for more diverse voices, while others hope to create new pathways and processes for hiring faculty across campus. Alongside ACLS, our partners seek to help foster a more broadly representative generation of humanities faculty by recruiting historically underrepresented scholars as postdocs to propel their transition into the professoriate. These experiences also stand to enrich our ongoing conversation about the evolution of the humanities professoriate and the possibilities for programs like these to be transformative for scholars and institutions alike.” 

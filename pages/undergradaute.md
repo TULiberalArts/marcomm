@@ -11,8 +11,8 @@ keywords: >-
 
 sidebar: sidebars/undergraduate.html
 ---
-![LAURA Awards 2019]({{site.baseurl}}/media/resizedlaura1.jpg){:.img-right}
 ## NEED BLURB
+![LAURA Awards 2019]({{site.baseurl}}/media/resizedlaura1.jpg){:.img-right}
 
 ## Liberal Arts Undergraduate Research Awards (LAURAs)
 The Liberal Arts Undergraduate Research Awards (LAURAs). The LAURAs grant $2,000 each to undergraduate student-faculty member duos to conduct a research project over the course of a semester. Each student earns a $15/hour stipend from the grant while spending 100 hours on the project, which enables students to dedicate their time to developing research skills without having to worry about their financial wellbeing.

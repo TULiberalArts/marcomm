@@ -14,13 +14,8 @@ feature: true
 feature-title: 
 feature-image: 
 feature-body: >-
-  We’re not confined to the classroom. We venture into the laboratory
-  and get our hands dirty in the field. Whether we’re in the psychology 
-  labs of Weiss Hall or analyzing urban sustainability in Center City, our 
-  research is driving science forward and changing the world for the better.
 ---
-## Our Research is Driving Science Forward and Changing the World for the Better
-  and get our hands dirty in the field.
+## Our Research is Driving Science Forward and Changing the World
 ![Research hero]({{site.baseurl}}/media/resizedresearch-banner.jpg){:.responsive-img .img-right}
 Research in the College of Liberal Arts spans the humanities, arts, social sciences and STEM fields. In _geography_, a new spatial analytics lab provides tools that allow researchers to inform policy in key areas such as health¬care by mapping disease and highlighting geographic health disparities.  Other faculty investigate the social, economic and political impact of the diffusion of new information tech¬nologies in the U.S. and across the world. They probe the depths of higher education funding and marry computer science and literature through the _digital humanities_. Our _philosophy_ faculty does cutting-edge research in the area of biomedical ethics, changing the way we understand the relationship between medicine and our values. Our _religion_ professors write award-winning books that bring new understandings of racial dynamics in American religious history.
 

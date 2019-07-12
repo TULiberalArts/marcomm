@@ -20,9 +20,9 @@ Temple University’s Office of the Vice President for Research offers specializ
 
 ### Provost Funding
 Eligible faculty are encouraged to apply for Grant-in-Aid Awards, Summer Research Awards and sabbaticals.
-Diversity and Inclusion Post-Doctoral Fellows in Liberal Arts
-ACLS/Mellon Diversity and Inclusion Post-Doctoral Fellow in the Humanities
-Post-Doctoral Fellows (link to Psychology department)
+- Diversity and Inclusion Post-Doctoral Fellows in Liberal Arts
+- ACLS/Mellon Diversity and Inclusion Post-Doctoral Fellow in the Humanities
+- Post-Doctoral Fellows 
 
 ### Related CLA Centers and Labs
 - [Public Policy Lab](http://www.cla.temple.edu/public-policy-lab/)<br>

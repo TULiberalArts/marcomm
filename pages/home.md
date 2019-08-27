@@ -28,21 +28,21 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="NEED CONTENT"
-    content="NEED CONTENT"
-    button-link="NEED CONTENT"
+    title="Undergraduate Research"
+    content="Students are supported by faculty and encouraged to apply for funded research support. There are several ways for current students to receive funding."
+    button-link="http://dev.cla.temple.edu/liberal-arts-research/undergraduate/"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="NEED CONTENT"
+    title="Graduate Research"
     content="NEED CONTENT"
-    button-link="NEED CONTENT"
+    button-link="http://dev.cla.temple.edu/liberal-arts-research/graduate/"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
-      title="NEED CONTENT"
-      content="NEED CONTENT"
-      button-link="NEED CONTENT"
+      title="Research Administration"
+      content="The College of Liberal Arts offers extensive support for faculty research."
+      button-link="http://dev.cla.temple.edu/liberal-arts-research/research-administration/"
       button-text="Learn More" %}
     </div>
 </div>

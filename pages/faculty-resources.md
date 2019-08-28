@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /research-resources/
+permalink: /faculty-resources/
 published: true
 # meta-data variables
-title: Research Resources
+title: Faculty Resources
 description: >-     
 keywords: >-
 # custom variables

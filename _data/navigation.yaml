@@ -1,10 +1,10 @@
 - text: Undergraduate
   url: /undergraduate/
 - text: Graduate
-  url : /graduate/
+  url : /graduate/  
+- text: Faculty Resources
+  url : /faculty-resources/  
 - text: Initiatives
-  url : /initiatives/  
-- text: Research Resources
-  url : /research-resources/ 
+  url : /initiatives/ 
 - text: Research Administration
   url : /research-administration/

@@ -22,11 +22,11 @@ description:
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
-address: 12th Floor
-  building: Anderson Hall
+address: 
+  building: 
   room:
-  street: 1114 Polett Walk
-  city: Philadelphia 
+  street: 
+  city: 
   email:
   phone:
 

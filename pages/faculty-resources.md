@@ -11,8 +11,8 @@ keywords: >-
 sidebar: sidebars/undergraduate.html
 ---
 ## Faculty and Additional Research
-- [CLARAs add guidelines]()
-- [LAURAs add guidelines]()
+- [CLARAs Guidelines](https://drive.google.com/open?id=1Hq2xkdxlKjvjM5FJxuKa1Lb2SCWojj6a)
+- [LAURAs Guidelines](https://drive.google.com/open?id=191ryddrmB1wwvsr005Kc3HHWUgDcfsBq)
 
 ### Office of the Vice President for Research (OVPR)
 

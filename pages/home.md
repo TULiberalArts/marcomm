@@ -35,7 +35,7 @@ ___
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Graduate Research"
-    content="NEED CONTENT"
+    content="The College of Liberal Arts offers multiple avenues of support for graduate student research."
     button-link="http://dev.cla.temple.edu/liberal-arts-research/graduate/"
     button-text="Learn More" %}
     </div>

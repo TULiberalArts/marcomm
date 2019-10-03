@@ -51,16 +51,16 @@ We are pleased to announce that the College of Liberal Arts received a major gra
 <details>
   <summary><strong>Who else is eligible to apply?</strong></summary>
 <p>Scholars who have held or currently hold terminal postdoctoral positions are eligible to apply.</p>
-</details>
+</details><br>
 
-**Application Documents**<br>
+**_Application Documents_**<br>
 
 <details>
   <summary><strong>How should I submit my application materials?</strong></summary>
 <p>All documents must be submitted to the Philosophy department at Temple University via Interfolio.</p>
-</details>
+</details><br>
 
-**International Applicants**<br>
+**_International Applicants_**<br>
 
 <details>
   <summary><strong>Do you accept applications from non-U.S. citizens?</strong></summary>
@@ -75,9 +75,9 @@ We are pleased to announce that the College of Liberal Arts received a major gra
 <details>
   <summary><strong>Can my materials be submitted in a language other than English?</strong></summary>
 <p>All documents must be submitted in English.</p>
-</details>
+</details><br>
 
-**Terms of Position**<br>
+**_Terms of Position_**<br>
 
 <details>
   <summary><strong>What if I receive an offer for a tenure-track offer before I start or complete the postdoctoral fellowship?</strong></summary>

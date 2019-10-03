@@ -82,7 +82,7 @@ We are pleased to announce that the College of Liberal Arts received a major gra
 <details>
   <summary><strong>What if I receive an offer for a tenure-track offer before I start or complete the postdoctoral fellowship?</strong></summary>
 <p>The ACLS Postdoctoral Fellow may not hold any other appointment during the period of the fellowship.</p>
-</details>
+</details><br>
 
 ### 2019-2020 Academic Year Fellows:
 

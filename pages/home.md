@@ -40,9 +40,9 @@ ___
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
-      title="Research Administration"
-      content="The College of Liberal Arts offers extensive support for faculty research."
-      button-link="http://dev.cla.temple.edu/liberal-arts-research/research-administration/"
+      title="Faculty Resources"
+      content="The College of Liberal Arts offers extensive support and opportunities for faculty research."
+      button-link="http://dev.cla.temple.edu/liberal-arts-research/faculty-resources/"
       button-text="Learn More" %}
     </div>
 </div>

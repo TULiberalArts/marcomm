@@ -27,7 +27,11 @@ These partnerships are the result of an open call for proposals ACLS issued in f
 ___
 
 ## Upcoming Fellowship Opportunities
-We are pleased to announce that the College of Liberal Arts received a major grant to support an ACLS/Mellon Diversity and Inclusion Doctorial Fellow in Philosophy. 
+We are pleased to announce that the College of Liberal Arts received a major grant to support an ACLS/Mellon Diversity and Inclusion Doctorial Fellow in Philosophy.
+
+In collaboration with The American Council of Learned Societies, The Department of Philosophy at Temple University invites applications for a two-year postdoctoral fellowship with the intent to promote the candidate to Assistant Professor in a Tenure Track Position upon completion of the fellowship period. This two-year fellowship is intended for promising early-career scholars from historically underrepresented groups in the academy. You can apply for the Philosophy of Race, ACLS Humanities Diversity and Inclusion Postdoctoral Fellow below. 
+
+<a class="waves-effect waves-light btn-large" href="https://apply.interfolio.com/69355"><i class="material-icons left">cloud</i>Apply Online</a>
 
 **_Philosophy: Diversity and Inclusion Postdoctoral Fellowship FAQ's and Application Criteria_**<br>
 - _AOS: Philosophy of Race_<br>

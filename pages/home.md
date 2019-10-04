@@ -15,7 +15,7 @@ feature-title:
 feature-image: 
 feature-body: >-
 ---
-![Research hero]({{site.baseurl}}/media/resizedresearchhero2.jpg){:.responsive-img .img-center}
+![Research hero]({{site.baseurl}}/media/heroresearchbanner.jpg){:.responsive-img .img-center}
 
 ## Our Research is Driving Science Forward and Changing the World
 Research in the College of Liberal Arts spans the humanities, arts, social sciences and STEM fields. In _geography_, a new spatial analytics lab provides tools that allow researchers to inform policy in key areas such as health¬care by mapping disease and highlighting geographic health disparities.  Other faculty investigate the social, economic and political impact of the diffusion of new information tech¬nologies in the U.S. and across the world. They probe the depths of higher education funding and marry computer science and literature through the _digital humanities_. Our _philosophy_ faculty does cutting-edge research in the area of biomedical ethics, changing the way we understand the relationship between medicine and our values. Our _religion_ professors write award-winning books that bring new understandings of racial dynamics in American religious history.

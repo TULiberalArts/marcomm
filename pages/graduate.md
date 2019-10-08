@@ -8,7 +8,7 @@ title: Graduate
 description: >-       
 keywords: >-
 # custom variables
-sidebar: sidebars/undergraduate.html
+sidebar: sidebars/graduate.html
 ---
 The College of Liberal Arts’ graduate students produce incredible, cutting-edge academic work as dedicated and creative scholars. CLA provides multiple avenues of support for graduate student research through conference travel funding and research awards. Temple University Graduate School also provides additional funding opportunities.
 

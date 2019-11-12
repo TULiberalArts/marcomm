@@ -53,6 +53,11 @@ In collaboration with The American Council of Learned Societies, The Department 
 </details>
 
 <details>
+  <summary><strong>What if I am currently employed in a full-time, tenure-track position?</strong></summary>
+<p>Eligible applicants will not hold an appointment in a tenure track position.</p>
+</details>
+
+<details>
   <summary><strong>Who else is eligible to apply?</strong></summary>
 <p>Scholars who have held or currently hold terminal postdoctoral positions are eligible to apply.</p>
 </details><br>

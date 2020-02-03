@@ -1,10 +1,10 @@
-- text: Undergraduate
-  url: /undergraduate/
-- text: Graduate
-  url : /graduate/  
-- text: Faculty Resources
-  url : /faculty-resources/  
-- text: Initiatives
-  url : /initiatives/ 
-- text: Research Administration
-  url : /research-administration/
+- text: Logos + Brand
+  url: /logos-brand/
+- text: Products
+  url : /products/  
+- text: Photos
+  url : /photos/  
+- text: Submit News
+  url : /submit-news/ 
+- text: Web Updates
+  url : /web-updates/

@@ -1,16 +1,16 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /faculty-resources/
+permalink: /logos-brand/
 published: true
 # meta-data variables
-title: Faculty Resources
+title: Logos + Brand
 description: >-     
 keywords: >-
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
-## Faculty and Additional Research Resources
+## Logo Repo Test Language
 - [CLARAs Guidelines](https://drive.google.com/open?id=1Hq2xkdxlKjvjM5FJxuKa1Lb2SCWojj6a)
 - [LAURAs Guidelines](https://drive.google.com/open?id=191ryddrmB1wwvsr005Kc3HHWUgDcfsBq)
 - [CLA Reasearch Calendar](https://liberalarts.temple.edu/sites/liberalarts/files/CLA%20Research%20Calendar%2019-20%2010.3.pdf)

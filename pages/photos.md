@@ -1,18 +1,18 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /graduate/
+permalink: /photos/
 published: true
 # meta-data variables
-title: Graduate
+title: Photos
 description: >-       
 keywords: >-
 # custom variables
 sidebar: sidebars/graduate.html
 ---
-The College of Liberal Arts’ graduate students produce incredible, cutting-edge academic work as dedicated and creative scholars. CLA provides multiple avenues of support for graduate student research through conference travel funding and research awards. Temple University Graduate School also provides additional funding opportunities.
+Photo Things
 
-## Graduate Student Conference Travel Program 
+## Photos Test Page
 Coming soon! _We are in the process of restructuring this program and funding should be available soon._
 
 ## Research Awards for Advanced Doctoral Students (RAADS)

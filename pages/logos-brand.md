@@ -9,7 +9,7 @@ description: >-
 keywords: >-
 
 ---
-## The College of Liberal Arts brand guidelines
+<br>
 Words test words testing other words and explanations about png and eps and yay.
 
 ### Departments, Centers, and Institutes

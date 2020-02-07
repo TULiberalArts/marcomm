@@ -7,8 +7,7 @@ published: true
 title: Logos + Brand
 description: >-     
 keywords: >-
-# custom variables
-sidebar: sidebars/undergraduate.html
+
 ---
 ## The College of Liberal Arts brand guidelines
 Words test words testing other words and explanations about png and eps and yay.

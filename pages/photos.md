@@ -10,7 +10,6 @@ keywords: >-
 # custom variables
 sidebar: sidebars/graduate.html
 ---
-Photo Things
 
 ## Temple Digital Asset Library
 Temple University provides a library of photos taken by Strategic Communications' staff photographers. You can log into the [database here](https://tudad.temple.edu/portals/tudad/#page/welcome-to-the-temple-university-digital-asset-database). Photos are sorted by date and event/coverage name.

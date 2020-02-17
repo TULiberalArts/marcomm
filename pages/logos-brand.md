@@ -70,4 +70,6 @@ In this repository you will find links to download College of Liberal Arts logos
 
 [Joyce K. Salzberg Center for Professional Development](https://temple.box.com/s/lnerhhaov5aang9q0e13jipi90wzv3cx)
 
+### I don't see the logo I need
+If you need to request a lock up that is not available in this list, please contact Zac McGroarty (tug28959@temple.edu) to get the process started. 
 ___

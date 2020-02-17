@@ -16,9 +16,11 @@ If you would like to order products or swag for your department or center the Ma
 We recommend working with our contacts below at two Temple approved vendors to select a product within your budget and our team can help in setting up the deliverable and reviewing proofs that come back from the vendor.
 
 [AbsolutelyApropos](https://absolutelyapropos.com/) 
+<br>
 Contact: Emily Hart (emily@absolutelyapropos.com)
 
 [Proforma](https://www.proforma.com/)
+<br>
 Contact: Sue Mahle (sue.mahle@proforma.com)
 
 

@@ -10,8 +10,15 @@ keywords: >-
 # custom variables
 sidebar: 
 ---
-## Products Test Page - Order Swag
-- About us intro needed; Opportunities needed
-- Repeat LAURA information?
-- Provost funding info needed
-- OVPR funding info needed
+## Ordering Branded Products
+If you would like to order products or swag for your department or center the Marketing and Communciations team can support these efforts.
+
+We recommend working with our contacts below at two Temple approved vendors to select a product within your budget and our team can help in setting up the deliverable and reviewing proofs that come back from the vendor.
+
+[AbsolutelyApropos](https://absolutelyapropos.com/) 
+Contact: Emily Hart (emily@absolutelyapropos.com)
+
+[Proforma](https://www.proforma.com/)
+Contact: Sue Mahle (sue.mahle@proforma.com)
+
+

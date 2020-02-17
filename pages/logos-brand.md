@@ -15,10 +15,11 @@ Words test words testing other words and explanations about png and eps and yay.
 ### College of Liberal Arts Logos
 <br>
 [Formal](https://temple.box.com/s/3gozj88cm67orvti4rz24ijumirlj0z6)
-The "formal" CLA logo is the preferred mark for CLA communications. This mark should be the first choice when executing marketing materials and must be used on formal communications like stationery. 
+<br>The "formal" CLA logo is the preferred mark for CLA communications. This mark should be the first choice when executing marketing materials and must be used on formal communications like stationery. 
 <br>
+
 [In-Market](https://temple.box.com/s/3gozj88cm67orvti4rz24ijumirlj0z6)
-The in-market CLA logo should be used very selectively and ONLY in the Philadelphia market where Temple University and the Temple "T" are already well known. This mark should never be used on stationery or in communications with audiences who are not familiar with temple. 
+<br>The in-market CLA logo should be used very selectively and ONLY in the Philadelphia market where Temple University and the Temple "T" are already well known. This mark should never be used on stationery or in communications with audiences who are not familiar with temple. 
 <br>
 ### Departments, Centers, and Institutes
 <br>

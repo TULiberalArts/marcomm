@@ -12,8 +12,10 @@ keywords: >-
 <br>
 In this repository you will find links to download College of Liberal Arts logos as well as individual departments and center logos. You can find guidelines on their use with the [2019-2020 Brand Guidelines](https://temple.box.com/s/u5jj8lmsdz06ukl5wvethqfzi8qpbuoz). If you need further assistance or clarification on their use, please contact Zac McGroarty (tug28959@temple.edu). 
 <br>
+
 **EPS** Please use this file type for any print applications to ensure best quality
 <br>
+
 **PNG** This file type is best used on digital applications and includes transparency. 
 <br>
 ### College of Liberal Arts Logos

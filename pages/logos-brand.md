@@ -34,6 +34,8 @@ In this repository you will find links to download College of Liberal Arts logos
 
 [Africology and African American Studies](https://temple.box.com/s/midaf0mwp5h2kgv2r57l3ot5tbbux0q5)
 
+[Alumni Association](https://temple.box.com/s/alu75aikqp3yrgcfjg70j0horgs7sg5m)
+
 [American Studies](https://temple.box.com/s/6grbj5z9xrb4djbf0fab2j937bi55ur6)
 
 [Anthropology](https://temple.box.com/s/k92tt9stybyap2mwmscuktnyu89c3hkt)

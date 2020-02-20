@@ -8,7 +8,6 @@ title: Photos
 description: >-       
 keywords: >-
 # custom variables
-sidebar: sidebars/graduate.html
 ---
 
 ## Temple Digital Asset Library

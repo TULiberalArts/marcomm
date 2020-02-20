@@ -11,5 +11,16 @@ keywords: >-
 
 ---
 
-## Update your website steps / TU help ticket / Test
-Need guidelines on submitted TUHelpTicket requests for web updates to program pages. 
+## TU Help Ticket Instructions
+• Computer Services Login Page- https://tuhelp.temple.edu/ (or go to the back-end of your portal) 
+• Select “Request Help” and choose Chris or Camille under Consultant Name (Camille for content changes, Chris for tech issues) 
+• Fill out request ticket with as much detail as possible and submit request 
+• If your program requires multiple changes please put all changes into one word document and upload. 
+• Once the ticket is routed to our department the changes will be completed.
+
+## Faculty Profile Form
+As your department upgrades its site, it is the perfect time for you to review the information currently on your faculty page. In keeping with trends at many of Temple’s peer universities, CLA will be restructuring faculty pages to include only a brief biography, publication list, research keywords, courses taught, and contact information.
+•	[Faculty Profile Form](https://form.jotform.us/70153507929156)
+
+## Submit your information for campus LCD screens
+•	[LCD Submission Form](https://form.jotform.us/70154361010136)

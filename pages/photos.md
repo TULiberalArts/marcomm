@@ -8,6 +8,7 @@ title: Photos
 description: >-       
 keywords: >-
 # custom variables
+sidebar: sidebars/marcom.html
 ---
 
 ## Temple Digital Asset Library

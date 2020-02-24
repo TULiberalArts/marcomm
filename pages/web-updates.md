@@ -19,7 +19,7 @@ keywords: >-
 • Once the ticket is routed to our department the changes will be completed.<br>
 
 ## Faculty Profile Form
-As your department upgrades its site, it is the perfect time for you to review the information currently on your faculty page. In keeping with trends at many of Temple’s peer universities, CLA will be restructuring faculty pages to include only a brief biography, publication list, research keywords, courses taught, and contact information.
+As your department upgrades its site, it is the perfect time for you to review the information currently on your faculty page. In keeping with trends at many of Temple’s peer universities, CLA will be restructuring faculty pages to include only a brief biography, publication list, research keywords, courses taught, and contact information.<br>
 •	[Faculty Profile Form](https://form.jotform.us/70153507929156)
 
 ## Submit your information for campus LCD screens

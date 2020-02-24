@@ -23,6 +23,7 @@ As your department upgrades its site, it is the perfect time for you to review t
 •	[Faculty Profile Form](https://form.jotform.us/70153507929156)
 
 ## Submit your information for campus LCD screens
+We provide design and deployment to university LCD screens in CLA-related buildings that can provide event or course promotion opportunities at no cost. 
 •	[LCD Submission Form](https://form.jotform.us/70154361010136)
 
 ## Email Template Assistance

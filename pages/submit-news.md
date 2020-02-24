@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /submit-news/
+permalink: /news-social/
 published: true
 # meta-data variables
-title: Submit News
+title: News and Social Media
 description: >-
 keywords: >-
 # custom variables

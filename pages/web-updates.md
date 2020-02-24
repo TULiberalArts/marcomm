@@ -24,3 +24,6 @@ As your department upgrades its site, it is the perfect time for you to review t
 
 ## Submit your information for campus LCD screens
 •	[LCD Submission Form](https://form.jotform.us/70154361010136)
+
+## Email Template Assistance
+Our team can provide consulting and design work for your email marketing, newsletters and event promotion. We primarily assist with [Mailchimp](www.mailchimp.com) templating and/or designed email header images. To set up a meeting and begin this process, please contact Zac McGroarty (tug28959@temple.edu)

@@ -72,5 +72,21 @@ In this repository you will find links to download College of Liberal Arts logos
 
 [Joyce K. Salzberg Center for Professional Development](https://temple.box.com/s/lnerhhaov5aang9q0e13jipi90wzv3cx)
 
-## Request a new logo
+[Philosophy](https://temple.box.com/s/yey8osw123dgalzrrq48d6hk1nijwjek)
+
+[Political Science](https://temple.box.com/s/jmeakl4w6oj19n1d9zno7c7vey5qxqon)
+
+[Pre-Law](https://temple.box.com/s/mycd160kvcah8n82wyplgwenscrel5aa)
+
+[Psychology](https://temple.box.com/s/4hgqrj8kapn42543y68xm3wuq7639ipo)
+
+[Public Policy Lab](https://temple.box.com/s/acd4i64t144s2x45anwqx7pykaqfulis)
+
+[Religion](https://temple.box.com/s/59xnzim4nhi11ft0z1xplcn8694gmqiu)
+
+[Sociology](https://temple.box.com/s/wch14rdpzibtv7mz94r92gtibh03pygp)
+
+[Spanish and Portuguese](https://temple.box.com/s/vpm9cztjjlb6ab6u6fyd3dfbf03v0tb3)
+
+## Request a New Logo
 If you need to request a lock up that is not available in this list, please contact Zac McGroarty (tug28959@temple.edu) to get the process started. 

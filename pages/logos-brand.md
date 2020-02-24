@@ -18,7 +18,7 @@ In this repository you will find links to download College of Liberal Arts logos
 
 **PNG** This file type is best used on digital applications and includes transparency. 
 <br>
-### College of Liberal Arts Logos
+## College of Liberal Arts Logos
 <br>
 [Formal](https://temple.box.com/s/3gozj88cm67orvti4rz24ijumirlj0z6)
 <br>The "formal" CLA logo is the preferred mark for CLA communications. This mark should be the first choice when executing marketing materials and must be used on formal communications like stationery. 
@@ -27,7 +27,7 @@ In this repository you will find links to download College of Liberal Arts logos
 [In-Market](https://temple.box.com/s/3gozj88cm67orvti4rz24ijumirlj0z6)
 <br>The in-market CLA logo should be used very selectively and ONLY in the Philadelphia market where Temple University and the Temple "T" are already well known. This mark should never be used on stationery or in communications with audiences who are not familiar with temple. 
 <br>
-### Departments, Centers, and Institutes
+## Departments, Centers, and Institutes
 <br>
 
 [Academic Advising](https://temple.box.com/s/xuapxa4s4fiize6f2asr023oltzz9abt)
@@ -72,6 +72,5 @@ In this repository you will find links to download College of Liberal Arts logos
 
 [Joyce K. Salzberg Center for Professional Development](https://temple.box.com/s/lnerhhaov5aang9q0e13jipi90wzv3cx)
 
-### I don't see the logo I need
+## Request a new logo
 If you need to request a lock up that is not available in this list, please contact Zac McGroarty (tug28959@temple.edu) to get the process started. 
-___
